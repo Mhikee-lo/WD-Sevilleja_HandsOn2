@@ -4,13 +4,13 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/LeoMiguelSeda/WD-Hands-On-2">
-  <img src="./assets/img/Profile.png" alt="Profile" width="300" height="400">
+  <a href="https://github.com/Mhikee-lo/WD-Sevilleja_HandsOn2">
+  <img src="./assets/img/Me.jpg" alt="Profile" width="300" height="400">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Hands-On-2</h3>
+
+  <h3 align="center">Hands-On 2</h3>
 </div>
-<!-- TODO: Make a short description -->
+
 <div align="center">
   
 </div>
@@ -18,14 +18,14 @@
 <br />
 
 
-![](https://visit-counter.vercel.app/counter.png?page=LeoMiguelSeda/WD-Hands-On-2)
+![](https://visit-counter.vercel.app/counter.png?page=Mhikee-lo/WD-Sevilleja_HandsOn2)
 
 ---
 
 <br />
 <br />
 
-<!-- TODO: If you want to add more layers for your readme -->
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -53,18 +53,17 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
+
 Description of the project in details.
 
 
-- Hands On 2
+- Hands-On 2
 - To create hero & card display website
 
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
+
+
 - MultiPage Website/Single Page Website
 - Parallax transition
 - Transactional
@@ -114,5 +113,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Hero Template | To have an idea on how to create a hero designs | https://youtu.be/kJb6BZwqCGM |
-
+| Hero and card | To have an idea on how to create a hero and card | https://www.youtube.com/watch?v=XDGig-nJUg8 |
+| Helps me | To guide me while doing the code | https://github.com/LeoMiguelSeda

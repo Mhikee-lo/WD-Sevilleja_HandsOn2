@@ -5,7 +5,7 @@
 }
 
 body {
-    background: radial-gradient(circle, #4e808e, #b7ffe5), url('../img/Honkai-Star-Rail-Firefly.png');
+    background: radial-gradient(circle, #4e808e, #b7ffe5), url('https://e0.pxfuel.com/wallpapers/368/215/desktop-wallpaper-fixed-gear-best-fixed-gear-and-on-chat-fixie-bike.jpg');
     background-size: cover;
     background-position: center;
     background-blend-mode: multiply;
@@ -30,14 +30,14 @@ body {
 h1 {
     margin-bottom: 10px;
     font-size: 2.5rem;
-    color: #008080;
+    color: #ff0000;
 }
 
 .subtitle {
     margin-bottom: 20px;
     font-size: 1.5rem;
     font-weight: bold;
-    color: #006400;
+    color: #ffffff;
 }
 
 .description {
@@ -55,7 +55,7 @@ h1 {
 
 .button {
     display: inline-block;
-    background-color: #4CAF50;
+    background-color: #ff0000;
     color: white;
     text-decoration: none;
     padding: 12px 24px;
@@ -67,7 +67,7 @@ h1 {
 }
 
 .button:hover {
-    background-color: #45a049;
+    background-color: #ffffff;
     transform: scale(1.05);
 }
 

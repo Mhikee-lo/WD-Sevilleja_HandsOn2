@@ -23,7 +23,7 @@
     height: 30px;
     line-height: 30px;
     text-align: center;
-    background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+    background: linear-gradient(90deg, #ff0000, #ffffff, #00fff2, #eeff00);
     background-size: 300%;
     border-radius: 30px;
     z-index: 1;
@@ -54,7 +54,7 @@
     right: -5px;
     bottom: -5px;
     z-index: -1;
-    background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+    background: linear-gradient(90deg, #ff0000, #ffffff, #00fff2, #eeff00);
     background-size: 400%;
     border-radius: 35px;
     transition: 1s;
@@ -65,14 +65,14 @@
 }
 
 .navigation-button:active {
-    background: linear-gradient(32deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+    background: linear-gradient(32deg, #ff0000, #ffffff, #00fff2, #eeff00);
 }
 
 .hero {
     display: flex;
     justify-content: center;
     margin-top: 2rem;
-    background-image: radial-gradient(circle, #4e808e, #b7ffe5), url('../img/Jingliu & Baiheng.jpeg');
+    background-image: radial-gradient(circle, #ff0000, #b7ffe5), url('../img/Jayjo1.jpg');
     background-size: cover;
     background-blend-mode: multiply;
     height: 100vh;
@@ -140,5 +140,5 @@ a:hover {
 }
 
 a.animated {
-    animation: buttonAnimation 0.5s ease forwards;
+    animation: buttonAnimation 0.6s ease forwards;
 }
